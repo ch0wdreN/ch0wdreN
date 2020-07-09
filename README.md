@@ -16,7 +16,7 @@
 
 ```
 ![badge](https://img.shields.io/badge/apple-respect-orange.svg?style=flat)
-![badge](https://img.shields.io/badge/Mac-Love-red.svg?style=flat)
+![badge](https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat)
 ![badge](https://img.shields.io/badge/Java-Good-brightgreen.svg?style=flat)
 ![badge](https://img.shields.io/badge/HTML-Good-information.svg?style=flat)
 ![badge](https://img.shields.io/badge/JavaScript-well-important.svg?style=flat)
