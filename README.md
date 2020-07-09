@@ -21,7 +21,7 @@
 ![badge](https://img.shields.io/badge/HTML-Good-information.svg?style=flat)
 ![badge](https://img.shields.io/badge/JavaScript-Good-brightgreen.svg?style=flat)
 ![badge](https://img.shields.io/badge/Rust-soso-important.svg?style=flat)
-![badge](https://img.shields.io/badge/want to be-PRO-blueviolet.svg?style=for-the-badge)
+![badge](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=for-the-badge)
 # :tada:Introduction
 National Institute of Technology,Tokuyama College student<br>
 ## Performance
