@@ -20,8 +20,8 @@
 ![badge](https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat)
 ![badge](https://img.shields.io/badge/HTML-Well-information.svg?style=flat)
 ![badge](https://img.shields.io/badge/JavaScript-Well-brightgreen.svg?style=flat)
-![badge](https://img.shields.io/badge/Swift-soso-important.svg?style=flat)
-![badge](https://img.shields.io/badge/Rust-soso-important.svg?style=flat)
+![badge](https://img.shields.io/badge/Swift-Soso-important.svg?style=flat)
+![badge](https://img.shields.io/badge/Rust-Soso-important.svg?style=flat)
 ![badge](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
 # :tada:Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
