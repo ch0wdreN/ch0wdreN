@@ -23,7 +23,8 @@
 ![badge](https://img.shields.io/badge/Rust-soso-important.svg?style=flat)
 ![badge](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
 # :tada:Introduction
-[National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student
+[National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
+kosen19s
 ## Performance
 none:sob:
 ## Hobby
