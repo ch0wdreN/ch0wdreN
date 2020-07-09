@@ -15,7 +15,8 @@
         `--`                  '---'                           `---`
 
 ```
-![badge](https://img.shields.io/badge/apple-respect-ff7964.svg?style=plastic)
+![badge](https://img.shields.io/badge/apple-respect-orange.svg?style=flat)
+![badge](https://img.shields.io/badge/Mac-Love-red.svg?style=flat)
 # Introduction
 National Institute of Technology,Tokuyama College student<br>
 ## Performance
