@@ -15,7 +15,7 @@
         `--`   `--`---'                   `--`---'       \   \  /   ---`-'
                                                           `--`-'
 ```
-<div align="center">
+
 ![badge](https://img.shields.io/badge/Apple-respect-orange.svg?style=flat)
 ![badge](https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat)<br>
 ![badge](https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat)
@@ -24,7 +24,6 @@
 ![badge](https://img.shields.io/badge/Swift-Soso-important.svg?style=flat)
 ![badge](https://img.shields.io/badge/Rust-Soso-important.svg?style=flat)
 ![badge](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
-</div>
 
 # :tada:Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
