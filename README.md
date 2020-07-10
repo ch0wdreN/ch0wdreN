@@ -25,13 +25,13 @@
 ![Rust](https://img.shields.io/badge/Rust-Soso-important.svg?style=flat)
 ![Pro](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
 
-# :tada:Self-introduction
+# :tada: Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
 kosen19s
 ## Performance
 none:sob:
 
-## :book:The programming language I'm learning now
+## :book: The programming language I'm learning now
 - Rust
 - HTML/CSS
 - JavaScript
@@ -43,12 +43,12 @@ Write a prompt:heartbeat:<br>
 <img width="1440" alt="スクリーンショット 2020-07-09 10 59 59" src="https://user-images.githubusercontent.com/57137136/86988524-654c9780-c1d3-11ea-913b-d6c234a8692c.png">
 
 
-# :house:Organizations
+# :house: Organizations
 - [ITをむさぼる会](https://github.com/tokuyama-it)
 ## Member
 Comming soon...
 
-# :postbox:Contact
+# :postbox: Contact
 - [Twitter](https://twitter.com/x7jkUzTfgbF4gBd)
 
 
