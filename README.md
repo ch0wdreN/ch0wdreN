@@ -28,6 +28,7 @@
 # :tada: Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
 kosen19s
+
 ## Performance
 none:sob:
 
@@ -45,6 +46,7 @@ Write a prompt:heartbeat:<br>
 
 # :house: Organizations
 - [ITをむさぼる会](https://github.com/tokuyama-it)
+
 ## Member
 Comming soon...
 
