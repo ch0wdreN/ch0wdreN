@@ -17,16 +17,16 @@
 ```
 <div align="center">
 <img src="https://img.shields.io/badge/age-16-9cf.svg?style=flat"></img>
-![takenoko](https://img.shields.io/badge/たけのこ派orきのこ派-たけのこ派-success.svg?style=flat)<br>
-![OS](https://img.shields.io/badge/OS-macOS-critical.svg?style=flat)
-![apple](https://img.shields.io/badge/Apple-respect-orange.svg?style=flat)
-![mac](https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat)<br>
-![Java](https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat)
-![html](https://img.shields.io/badge/HTML-Well-information.svg?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-Well-brightgreen.svg?style=flat)
-![Swift](https://img.shields.io/badge/Swift-Soso-important.svg?style=flat)
-![Rust](https://img.shields.io/badge/Rust-Soso-important.svg?style=flat)
-![Pro](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
+<img src="https://img.shields.io/badge/たけのこ派orきのこ派-たけのこ派-success.svg?style=flat"></img><br>
+<img src="https://img.shields.io/badge/OS-macOS-critical.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/Apple-respect-orange.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat"></img><br>
+<img src="https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/HTML-Well-information.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/JavaScript-Well-brightgreen.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/Swift-Soso-important.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/Rust-Soso-important.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat"></img>
 </div>
 # :tada: Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
