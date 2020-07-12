@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/age-16-9cf.svg?style=flat"></img>
 <img src="https://img.shields.io/badge/たけのこ派orきのこ派-たけのこ派-success.svg?style=flat"></img><br>
 <img src="https://img.shields.io/badge/OS-macOS-critical.svg?style=flat"></img>
-<img src="https://img.shields.io/badge/Apple-respect-orange.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/Apple-respect-orange.svg?style=flat&logo=Apple"></img>
 <img src="https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat"></img><br>
 <img src="https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat"></img>
 <img src="https://img.shields.io/badge/HTML-Well-information.svg?style=flat"></img>
