@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Rust-Soso-important.svg?style=flat"></img>
 <img src="https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat"></img>
 </div>
+
 # :tada: Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
 kosen19s
