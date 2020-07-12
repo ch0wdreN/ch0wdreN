@@ -15,7 +15,8 @@
                                                                    `--`-'
 
 ```
-![age](https://img.shields.io/badge/age-16-9cf.svg?style=flat)
+<div align="center">
+<img src="https://img.shields.io/badge/age-16-9cf.svg?style=flat"></img>
 ![takenoko](https://img.shields.io/badge/たけのこ派orきのこ派-たけのこ派-success.svg?style=flat)<br>
 ![OS](https://img.shields.io/badge/OS-macOS-critical.svg?style=flat)
 ![apple](https://img.shields.io/badge/Apple-respect-orange.svg?style=flat)
@@ -26,7 +27,7 @@
 ![Swift](https://img.shields.io/badge/Swift-Soso-important.svg?style=flat)
 ![Rust](https://img.shields.io/badge/Rust-Soso-important.svg?style=flat)
 ![Pro](https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat)
-
+</div>
 # :tada: Self-introduction
 [National Institute of Technology,Tokuyama College](https://www.tokuyama.ac.jp) student<br>
 kosen19s
