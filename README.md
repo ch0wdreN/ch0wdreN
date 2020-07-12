@@ -17,8 +17,9 @@
 ```
 ![age](https://img.shields.io/badge/age-16-9cf.svg?style=flat)
 ![takenoko](https://img.shields.io/badge/たけのこ派orきのこ派-たけのこ派-success.svg?style=flat)<br>
+![OS](https:/img.shields.io/badge/OS-MacOS-critical.svg?style=flat)
 ![apple](https://img.shields.io/badge/Apple-respect-orange.svg?style=flat)
-![mav](https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat)<br>
+![mav](https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=flat)
 ![Java](https://img.shields.io/badge/Java-Well-brightgreen.svg?style=flat)
 ![html](https://img.shields.io/badge/HTML-Well-information.svg?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Well-brightgreen.svg?style=flat)
