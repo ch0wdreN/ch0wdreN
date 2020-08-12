@@ -31,6 +31,8 @@
 </div>
 # :wave: Thanks for visiting my Github page!
 
+
+
 ### [Japanese Page](https://github.com/YanagiTakafumi/YanagiTakafumi/blob/master/README_Ja.md)
 
 ## :tada: Self-introduction
