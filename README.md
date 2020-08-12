@@ -31,10 +31,6 @@
 </div>
 # :wave: Thanks for visiting my Github page!
 
-
-
-### [Japanese Page](https://github.com/YanagiTakafumi/YanagiTakafumi/blob/master/README_Ja.md)
-
 ## :tada: Self-introduction
 
 [National Institute of Technology, Tokuyama College](https://www.tokuyama.ac.jp) student<br>kosen19s
@@ -67,3 +63,5 @@ Comming soon......
 ## :postbox: Contact
 
 * [Twitter](https://twitter.com/x7jkUzTfgbF4gBd)
+
+[Japanese Page](https://github.com/YanagiTakafumi/YanagiTakafumi/blob/master/README_Ja.md)
