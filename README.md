@@ -29,8 +29,9 @@
 <img src="https://img.shields.io/badge/Rust-Soso-important.svg?style=flat&logo=Rust"></img>
 <img src="https://img.shields.io/badge/PRO-になりたい-blueviolet.svg?style=flat"></img>
 </div>
-
 # :wave: Thanks for visiting my Github page!
+
+### [Japanese Page](https://github.com/YanagiTakafumi/YanagiTakafumi/blob/master/README_Ja.md)
 
 ## :tada: Self-introduction
 
