@@ -34,8 +34,7 @@
 
 ## :tada: Self-introduction
 
-[National Institute of Technology, Tokuyama College](https://www.tokuyama.ac.jp) student<br>
-kosen19s
+[National Institute of Technology, Tokuyama College](https://www.tokuyama.ac.jp) student<br>kosen19s
 
 ### Performance
 
@@ -60,7 +59,7 @@ Write a prompt:heartbeat:<br>
 
 ### Member
 
-Comming soon...
+Comming soon......
 
 ## :postbox: Contact
 
