@@ -37,9 +37,7 @@
 
 [National Institute of Technology, Tokuyama College](https://www.tokuyama.ac.jp) student<br>kosen19s
 
-![status](https://github-readme-stats.vercel.app/api?username=YanagiTakafumi&show_icons=true&theme=tokyonight)
-
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=YanagiTakafumi&layout=compact)
+![status](https://github-readme-stats.vercel.app/api?username=YanagiTakafumi&show_icons=true&theme=tokyonight)![language](https://github-readme-stats.vercel.app/api/top-langs/?username=YanagiTakafumi&layout=compact)
 
 ### Performance
 
