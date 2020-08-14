@@ -39,6 +39,10 @@
 
 kosen19s
 
+![status](https://github-readme-stats.vercel.app/api?username=YanagiTakafumi&show_icons=true&theme=tokyonight)
+
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=YanagiTakafumi&layout=compact)
+
 ### 実績
 
 ないです...:sob:
