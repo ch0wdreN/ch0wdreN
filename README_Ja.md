@@ -35,7 +35,7 @@
 
 ## :tada: 自己紹介
 
-[徳山高専](https://www.tokuyama.ac.jp)の学生です<br>
+[徳山高専](https://www.tokuyama.ac.jp)の学生です
 
 kosen19s
 
@@ -53,7 +53,7 @@ kosen19s
 
 ### 趣味
 
-プロンプトを書くことです:heartbeat:
+プロンプトを書くこと:heartbeat:
 
 <img width="1440" alt="prompt" src="https://user-images.githubusercontent.com/57137136/86988524-654c9780-c1d3-11ea-913b-d6c234a8692c.png">
 
