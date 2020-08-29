@@ -1,5 +1,6 @@
-![tyautyau56](https://user-images.githubusercontent.com/57137136/91638674-2c4ed780-ea4c-11ea-8af8-c6a68e554cc2.JPG)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/57137136/91638674-2c4ed780-ea4c-11ea-8af8-c6a68e554cc2.JPG"></img>
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/age-16-9cf.svg?style=flat"></img>
@@ -22,7 +23,7 @@
 
 kosen19s
 
-![status](https://github-readme-stats.vercel.app/api?username=YanagiTakafumi&count_private=true&theme=vision-friendly-dark&show_icons=true)![language](https://github-readme-stats.vercel.app/api/top-langs/?username=YanagiTakafumi&layout=compact&theme=vision-friendly-dark)
+![status](https://github-readme-stats.vercel.app/api?username=tyautyau56&count_private=true&theme=vision-friendly-dark&show_icons=true)![language](https://github-readme-stats.vercel.app/api/top-langs/?username=tyautyau56&layout=compact&theme=vision-friendly-dark)
 
 ### Performance
 
