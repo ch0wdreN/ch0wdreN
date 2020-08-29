@@ -26,7 +26,7 @@
 
 kosen19s
 
-<img src="https://github-readme-stats.vercel.app/api?username=YanagiTakafumi&amp;show_icons=true&amp;theme=tokyonight" alt="status" style="zoom: 80%"/>![language](https://github-readme-stats.vercel.app/api/top-langs/?username=YanagiTakafumi&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=tyautyau56&amp;show_icons=true&amp;theme=tokyonight" alt="status" style="zoom: 80%"/>![language](https://github-readme-stats.vercel.app/api/top-langs/?username=tyautyau56&layout=compact)
 
 ### 実績
 
