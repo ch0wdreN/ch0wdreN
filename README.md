@@ -1,6 +1,5 @@
-<div algin="center">
+
   <img src"https://github.com/tyautyau56/tyautyau56/blob/master/tyautyau56.JPG"></img>
-</div>
 
 
 <div align="center">
