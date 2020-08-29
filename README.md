@@ -1,5 +1,4 @@
-
-  <img src"https://github.com/tyautyau56/tyautyau56/blob/master/tyautyau56.JPG"></img>
+![tyautyau56](https://user-images.githubusercontent.com/57137136/91638674-2c4ed780-ea4c-11ea-8af8-c6a68e554cc2.JPG)
 
 
 <div align="center">
