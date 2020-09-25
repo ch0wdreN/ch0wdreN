@@ -51,6 +51,6 @@ Comming soon......
 
 ## :postbox: Contact
 
-* [Twitter](https://twitter.com/x7jkUzTfgbF4gBd)
+* [Twitter](https://twitter.com/tyautyau56)
 
 [Japanese Page](https://github.com/YanagiTakafumi/YanagiTakafumi/blob/master/README_Ja.md)

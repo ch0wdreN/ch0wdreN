@@ -58,5 +58,5 @@ kosen19s
 
 ### :postbox:連絡
 
-* [Twitter](https://twitter.com/x7jkUzTfgbF4gBd)
+* [Twitter](https://twitter.com/tyautyau56)
 
