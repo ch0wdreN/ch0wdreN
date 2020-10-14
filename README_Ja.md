@@ -45,7 +45,8 @@ kosen19s
 * Rust
 * HTML/CSS
 * JavaScript
-* Java
+* Haskell
+* TypeScript
 * Swift
 
 ### 趣味
