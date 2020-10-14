@@ -41,7 +41,8 @@ none:sob:
 * Rust
 * HTML/CSS/Sass
 * JavaScript
-* Java
+* Haskell
+* TypeScript
 * Swift
 
 ### Hobby
