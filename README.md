@@ -39,7 +39,6 @@ none:sob:
 ### :book: The programming language I'm learning now
 
 * Rust
-* HTML/CSS/Sass
 * JavaScript
 * Haskell
 * TypeScript
