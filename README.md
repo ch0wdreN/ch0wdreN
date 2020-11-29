@@ -44,10 +44,6 @@ none:sob:
 * TypeScript
 * Swift
 
-### Hobby
-
-Write a prompt:heartbeat:<br>
-<img width="1440" alt="prompt" src="https://user-images.githubusercontent.com/57137136/86988524-654c9780-c1d3-11ea-913b-d6c234a8692c.png">
 
 ## :house: Organizations
 
