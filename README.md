@@ -49,9 +49,6 @@ none:sob:
 
 * [ITをむさぼる会](https://github.com/tokuyama-it)
 
-### Member
-
-Comming soon......
 
 ## :postbox: Contact
 
