@@ -34,7 +34,7 @@ kosen19s
 
 [My portfolio](https://tyautyau56.netlify.app)
 
-![status](https://github-readme-stats.vercel.app/api?username=tyautyau56&count_private=true&theme=vision-friendly-dark&show_icons=true)![language](https://github-readme-stats.vercel.app/api/top-langs/?username=tyautyau56&layout=compact&theme=vision-friendly-dark&count_private=true)
+![status](https://github-profile-trophy.vercel.app/?username=tyautyau56&title=MultiLanguage,Commit,PullRequest)
 
 ### 実績
 
@@ -49,21 +49,11 @@ kosen19s
 * TypeScript
 * Swift
 
-### 趣味
-
-プロンプトを書くこと:heartbeat:
-
-<img width="1440" alt="prompt" src="https://user-images.githubusercontent.com/57137136/86988524-654c9780-c1d3-11ea-913b-d6c234a8692c.png">
-
-
 
 ### :house:所属
 
 * [ITをむさぼる会](https://github.com/tokuyama-it)
 
-### メンバー
-
-そのうち更新します...
 
 ### :postbox:連絡
 
