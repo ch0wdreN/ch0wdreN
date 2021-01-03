@@ -30,7 +30,7 @@ kosen19s
 
 [My portfolio](https://tyautyau56.netlify.app)
 
-![status](https://github-profile-trophy.vercel.app/?username=tyautyau56&title=MultiLanguage,Commit,PullRequest)
+![status](https://github-profile-trophy.vercel.app/?username=tyautyau56)
 
 ### Performance
 
