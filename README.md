@@ -9,7 +9,7 @@
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/age-16-9cf.svg?style=flat"></img>
+<img src="https://img.shields.io/badge/age-17-9cf.svg?style=flat"></img>
 <img src="https://img.shields.io/badge/たけのこ派orきのこ派-平和主義-success.svg?style=flat"></img><br>
 <img src="https://img.shields.io/badge/OS-macOS-critical.svg?style=flat"></img>
 <img src="https://img.shields.io/badge/Apple-respect-orange.svg?style=flat&logo=Apple"></img>
