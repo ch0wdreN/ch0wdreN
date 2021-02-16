@@ -10,6 +10,6 @@
 
 ## :tada: Self-introduction
 
-kosen19s
+#kosen19s
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tyautyau56&theme=dark)
