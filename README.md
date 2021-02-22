@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/Mac-Love-ff69b4.svg?style=for-the-badge"></img><br>
 </div>
 
-## :tada: Self-introduction
-
-#kosen19s
+<hr>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tyautyau56&theme=dark)
