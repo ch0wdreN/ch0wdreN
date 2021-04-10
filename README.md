@@ -10,4 +10,6 @@
 
 <hr>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tyautyau56&theme=dark)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyautyau56&theme=dark"></img>
+</div>
