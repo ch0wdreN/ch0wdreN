@@ -13,3 +13,8 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyautyau56&theme=dark"></img>
 </div>
+
+<hr>
+
+## What tyautyau 🤔
+View [Here](https://www.google.com/search?q=%E3%83%81%E3%83%A3%E3%82%A6%E3%83%81%E3%83%A3%E3%82%A6&source=lnms&tbm=isch)!!
