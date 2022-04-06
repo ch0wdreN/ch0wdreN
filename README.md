@@ -1,4 +1,4 @@
-# :wave: Hi!!!
+# 👋
 
 <div align="center">
 <img src="https://img.shields.io/badge/age-18-9cf.svg?style=for-the-badge"></img>
