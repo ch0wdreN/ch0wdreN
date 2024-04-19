@@ -1,14 +1,5 @@
-# 👋
+# 👋 Hi!
 
-<div align="center">
-<img src="https://img.shields.io/badge/age-20-9cf.svg?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/Occupation-student-success.svg?style=for-the-badge"></img><br>
-<img src="https://img.shields.io/badge/editor-vim-orange.svg?style=for-the-badge"></img><br>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i19yanagi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=i19yanagi&theme=dark"></img>
-</div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i19yanagi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
