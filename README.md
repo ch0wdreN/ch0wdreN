@@ -1,5 +1,14 @@
 # 👋 Hi!
+## 💪 Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,scss,rust,java)](https://skillicons.dev)
 
+<details>
+<summary>still learning</summary>
+  
+[![still learning](https://skillicons.dev/icons?i=go,docker,supabase,deno,postgres,mysql,tauri,wasm)](https://skillicons.dev)
+</details>
+
+## 📈 Status
 [![](https://raw.githubusercontent.com/i19yanagi/i19yanagi/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i19yanagi/i19yanagi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i19yanagi/i19yanagi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i19yanagi/i19yanagi/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i19yanagi/i19yanagi/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
