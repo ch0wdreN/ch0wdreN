@@ -1,11 +1,11 @@
 # 👋 Hi!
 ## 💪 Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,scss,rust,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,docker,ts,js,html,css,scss,java)](https://skillicons.dev)
 
 <details>
 <summary>still learning</summary>
   
-[![still learning](https://skillicons.dev/icons?i=go,docker,supabase,deno,postgres,mysql,tauri,wasm)](https://skillicons.dev)
+[![still learning](https://skillicons.dev/icons?i=supabase,deno,postgres,mysql,tauri,wasm)](https://skillicons.dev)
 </details>
 
 ## 📈 Status
