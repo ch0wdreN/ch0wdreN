@@ -1,6 +1,6 @@
 # 👋 Hi!
 ## 💪 Skills
-[![My Skills](https://skillicons.dev/icons?i=go,rust,docker,ts,js,html,css,scss,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,docker,ts,js,java)](https://skillicons.dev)
 
 <details>
 <summary>still learning</summary>
