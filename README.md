@@ -5,7 +5,7 @@
 <details>
 <summary>still learning</summary>
   
-[![still learning](https://skillicons.dev/icons?i=aws,supabase,deno,postgres,mysql,tauri,wasm,kotlin,spring,ktor,terraform,gcp)](https://skillicons.dev)
+[![still learning](https://skillicons.dev/icons?i=aws,supabase,deno,postgres,mysql,tauri,wasm,kotlin,spring,ktor,terraform,gcp,kubernetes)](https://skillicons.dev)
 </details>
 
 ## 📈 Status
